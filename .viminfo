@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1776411627,,"wq"
+|2,0,1776412492,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,46 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/hellot123.txt
-|4,48,3,0,1776411627,"~/hellot123.txt"
-'1  7  47  ~/.git/config
-|4,49,7,47,1776410582,"~/.git/config"
+'0  1  0  ~/.git/MERGE_MSG
+|4,48,1,0,1776412492,"~/.git/MERGE_MSG"
+'1  3  0  ~/hellot123.txt
+|4,49,3,0,1776411627,"~/hellot123.txt"
+'2  7  47  ~/.git/config
+|4,50,7,47,1776410582,"~/.git/config"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1776412492,"~/.git/MERGE_MSG"
 -'  3  0  ~/hellot123.txt
 |4,39,3,0,1776411627,"~/hellot123.txt"
+-'  3  0  ~/hellot123.txt
+|4,39,3,0,1776411627,"~/hellot123.txt"
+-'  1  0  ~/hellot123.txt
+|4,39,1,0,1776411620,"~/hellot123.txt"
 -'  1  0  ~/hellot123.txt
 |4,39,1,0,1776411620,"~/hellot123.txt"
 -'  7  47  ~/.git/config
 |4,39,7,47,1776410582,"~/.git/config"
 -'  7  47  ~/.git/config
 |4,39,7,47,1776410582,"~/.git/config"
+-'  7  47  ~/.git/config
+|4,39,7,47,1776410582,"~/.git/config"
+-'  7  47  ~/.git/config
+|4,39,7,47,1776410582,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1776410540,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1776410540,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1776410540,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1776410540,"~/.git/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1776412487	0
+	"	1	0
 
 > ~/hellot123.txt
 	*	1776411626	0
